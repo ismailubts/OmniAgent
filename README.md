@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/ismailubts/OmniAgent"><img src="https://img.shields.io/badge/status-beta-blue?style=for-the-badge" alt="Project status beta"></a>
   <a href="https://github.com/ismailubts/OmniAgent/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/ismailubts/OmniAgent/ci.yml?branch=main&style=for-the-badge" alt="CI status"></a>
-  <a href="https://github.com/ismailubts/OmniAgent/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://github.com/ismailubts/OmniAgent/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Proprietary-blue?style=for-the-badge" alt="Proprietary License"></a>
 </div>
 <div align="center">
   <a href="#quickstart">Quickstart</a> |
@@ -77,7 +77,7 @@ docker run -it --rm \
   -p 8000:8000 \
   -v "$HOME/.omniagent:/home/omniagent/.omniagent" \
   -v "${PROJECTS_PATH}:/projects" \
-  ghcr.io/openhands/agent-canvas:1
+  ghcr.io/ismailubts/omniagent:latest
 ```
 
 The agent will be able to access any project under `PROJECTS_PATH`.

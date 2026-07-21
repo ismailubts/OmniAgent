@@ -94,4 +94,4 @@ This package is automatically published to npm **when a version bump is merged t
 
 ## License
 
-MIT
+Proprietary — see LICENSE.

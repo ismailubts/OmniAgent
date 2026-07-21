@@ -8,7 +8,7 @@ requires = [ "poetry-core" ]
 name = "omniagent"
 description = "OmniAgent: Code Less, Make More"
 readme = "README.md"
-license = "MIT"
+license = "LicenseRef-Proprietary"
 authors = [ { name = "Abdul Ismail", email = "abdul.ismail@users.noreply.github.com" } ]
 requires-python = ">=3.12,<3.14"
 classifiers = [
@@ -144,7 +144,7 @@ name = "omniagent"
 version = "1.11.0"
 description = "OmniAgent: Code Less, Make More"
 authors = [ "Abdul Ismail" ]
-license = "MIT"
+license = "LicenseRef-Proprietary"
 readme = "README.md"
 repository = "https://github.com/ismailubts/OmniAgent"
 packages = [
