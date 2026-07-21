@@ -247,7 +247,7 @@ The enterprise codebase includes integrations for:
 Each integration follows a consistent pattern with service classes, storage models, and API endpoints.
 
 **Important Notes:**
-- Enterprise code is licensed under Polyform Free Trial License (30-day limit)
+- Enterprise code is governed by the root proprietary LICENSE (see `LICENSE`)
 - The enterprise server extends the OmniAgent server through dynamic imports
 - Database changes require careful migration planning in `enterprise/migrations/`
 - Always test changes in both OmniAgent and enterprise contexts
